@@ -11,27 +11,28 @@
 
 ## What to find?
 
-- :love_you_gesture:JavaScript
+- :love_you_gesture: JavaScript
 - :shopping_cart: E-commerce
 - :shopping: NewStore
 - :cloud: Salesforce Commerce Cloud (SFCC)
 - :broom: Clean code
 - :gear: DevOps
 
-## Loves
+## Loves :heart:
 
-- :heart: Frontend
-- :heart: JavaScript
-- :heart: GitHub
-- :heart: Docker
-- :heart: `.dotfiles`
-- :heart: TypeScript
-- :heart: Web Components
-- :heart: Yarn
-- :heart: EditorConfig
-- :heart: ESLint
-- :heart: RxJS
-- :heart: Webpack
+- Clean code
+- Frontend
+- JavaScript
+- GitHub
+- Docker
+- `.dotfiles`
+- TypeScript
+- Web Components
+- Yarn
+- EditorConfig
+- ESLint
+- RxJS
+- Webpack
 
 <!--
 **jenssimon/jenssimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
