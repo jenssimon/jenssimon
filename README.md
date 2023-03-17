@@ -24,6 +24,7 @@
 ## Loves :heart:
 
 - Clean code
+- Renovate[^2]
 - Markdown
 - Frontend
 - JavaScript
@@ -39,6 +40,7 @@
 - Webpack
 
 [^1]: mentioned by *myself* somewhere between 2012 and 2015 in a conversation with @mpohl-PoM
+[^2]: [Renovate](https://github.com/marketplace/renovate)
 
 <!--
 **jenssimon/jenssimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
