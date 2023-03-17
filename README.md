@@ -1,6 +1,6 @@
 # :bowing_man: Jens Simon
 
-> :bangbang: IT is about people
+> :bangbang: IT is about people[^1]
 
 - :man_technologist: Solution Engineer at [Positive Minds](https://github.com/Positive-Minds/)
 - :round_pushpin: :de: Dresden area
@@ -34,6 +34,8 @@
 - ESLint
 - RxJS
 - Webpack
+
+[^1]: mentioned by *myself* somewhere between 2012 and 2015 in a conversation with @mpohl-PoM
 
 <!--
 **jenssimon/jenssimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
