@@ -21,6 +21,7 @@
 ## Loves :heart:
 
 - Clean code
+- Markdown
 - Frontend
 - JavaScript
 - GitHub
