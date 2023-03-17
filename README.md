@@ -1,6 +1,9 @@
 # :bowing_man: Jens Simon
 
-> :bangbang: IT is about people[^1]
+> :bangbang:
+> 
+> :de: *IT ist mit Menschen*
+> :gb: IT is with|about people[^1]
 
 - :man_technologist: Solution Engineer at [Positive Minds](https://github.com/Positive-Minds/)
 - :round_pushpin: :de: Dresden area
