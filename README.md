@@ -11,6 +11,7 @@
 - :globe_with_meridians: Languages
   - :de: German
   - :gb: English
+  - :es: Spanish
 
 ## What to find?
 
@@ -31,13 +32,13 @@
 - GitHub
 - Docker
 - `.dotfiles`
-- TypeScript
+- EditorConfig
 - Web Components
 - Yarn
-- EditorConfig
 - ESLint
+- Vite
+- TypeScript
 - RxJS
-- Webpack
 
 [^1]: mentioned by *myself* somewhere between 2012 and 2015 in a conversation with @mpohl-PoM
 [^2]: [Renovate](https://github.com/marketplace/renovate)
